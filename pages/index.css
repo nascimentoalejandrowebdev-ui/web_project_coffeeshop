@@ -128,6 +128,11 @@
   background-size: cover;
 }
 
+.recipes {
+  padding: 100px 80px;
+  text-align: center;
+}
+
 .recipes__title {
   font-family: "Inter";
   font-style: normal;
