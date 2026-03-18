@@ -25,6 +25,10 @@
   margin-right: 80px 5px;
 }
 
+.content {
+  display: flex;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
